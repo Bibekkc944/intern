@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Internship\\training\\intern\\Day8\\NETStarter\\Basics\\Basics.csproj": {}
+    "d:\\Internship\\training\\intern\\Day8\\NETStarter\\Basics\\Basics.csproj": {}
   },
   "projects": {
-    "D:\\Internship\\training\\intern\\Day8\\NETStarter\\Basics\\Basics.csproj": {
+    "d:\\Internship\\training\\intern\\Day8\\NETStarter\\Basics\\Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Internship\\training\\intern\\Day8\\NETStarter\\Basics\\Basics.csproj",
+        "projectUniqueName": "d:\\Internship\\training\\intern\\Day8\\NETStarter\\Basics\\Basics.csproj",
         "projectName": "Basics",
-        "projectPath": "D:\\Internship\\training\\intern\\Day8\\NETStarter\\Basics\\Basics.csproj",
+        "projectPath": "d:\\Internship\\training\\intern\\Day8\\NETStarter\\Basics\\Basics.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\Internship\\training\\intern\\Day8\\NETStarter\\Basics\\obj\\",
+        "outputPath": "d:\\Internship\\training\\intern\\Day8\\NETStarter\\Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

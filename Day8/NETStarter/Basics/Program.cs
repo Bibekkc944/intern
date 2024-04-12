@@ -24,12 +24,14 @@
     tiger.habitat = "caves";
     tiger.foodtype = "Carnivoros";
     tiger.food = "flesh";
+    tiger.legs = 4;
 
     goat.name = "Goat";
     goat.type = "Domestic animal";
     goat.habitat = "Shelter";
     goat.foodtype = "Herbivorous";
     goat.food = "grass";
+    goat.legs = 4;
 
     tiger.Details();
     goat.Details();

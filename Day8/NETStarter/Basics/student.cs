@@ -21,8 +21,10 @@ class animal
   internal string foodtype;
   internal string food;
 
+  internal int legs;
+
   public void Details()
   {
-    Console.WriteLine($"{name} is a {type}. {name} lives in {habitat}. It is a {foodtype} animal and depend upon {food} for food." );
+    Console.WriteLine($"{name} is a {type}. {name} lives in {habitat}. It is a {foodtype} animal and depend upon {food} for food and have {legs} legs." );
   }
 }
