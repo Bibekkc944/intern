@@ -1,0 +1,30 @@
+D:\Internship\training\intern\Day 8\NETStarter\Basics\bin\Debug\net8.0\Basics.exe
+D:\Internship\training\intern\Day 8\NETStarter\Basics\bin\Debug\net8.0\Basics.deps.json
+D:\Internship\training\intern\Day 8\NETStarter\Basics\bin\Debug\net8.0\Basics.runtimeconfig.json
+D:\Internship\training\intern\Day 8\NETStarter\Basics\bin\Debug\net8.0\Basics.dll
+D:\Internship\training\intern\Day 8\NETStarter\Basics\bin\Debug\net8.0\Basics.pdb
+D:\Internship\training\intern\Day 8\NETStarter\Basics\obj\Debug\net8.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\training\intern\Day 8\NETStarter\Basics\obj\Debug\net8.0\Basics.AssemblyInfoInputs.cache
+D:\Internship\training\intern\Day 8\NETStarter\Basics\obj\Debug\net8.0\Basics.AssemblyInfo.cs
+D:\Internship\training\intern\Day 8\NETStarter\Basics\obj\Debug\net8.0\Basics.csproj.CoreCompileInputs.cache
+D:\Internship\training\intern\Day 8\NETStarter\Basics\obj\Debug\net8.0\Basics.sourcelink.json
+D:\Internship\training\intern\Day 8\NETStarter\Basics\obj\Debug\net8.0\Basics.dll
+D:\Internship\training\intern\Day 8\NETStarter\Basics\obj\Debug\net8.0\refint\Basics.dll
+D:\Internship\training\intern\Day 8\NETStarter\Basics\obj\Debug\net8.0\Basics.pdb
+D:\Internship\training\intern\Day 8\NETStarter\Basics\obj\Debug\net8.0\Basics.genruntimeconfig.cache
+D:\Internship\training\intern\Day 8\NETStarter\Basics\obj\Debug\net8.0\ref\Basics.dll
+D:\Internship\training\intern\Day8\NETStarter\Basics\bin\Debug\net8.0\Basics.exe
+D:\Internship\training\intern\Day8\NETStarter\Basics\bin\Debug\net8.0\Basics.deps.json
+D:\Internship\training\intern\Day8\NETStarter\Basics\bin\Debug\net8.0\Basics.runtimeconfig.json
+D:\Internship\training\intern\Day8\NETStarter\Basics\bin\Debug\net8.0\Basics.dll
+D:\Internship\training\intern\Day8\NETStarter\Basics\bin\Debug\net8.0\Basics.pdb
+D:\Internship\training\intern\Day8\NETStarter\Basics\obj\Debug\net8.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\training\intern\Day8\NETStarter\Basics\obj\Debug\net8.0\Basics.AssemblyInfoInputs.cache
+D:\Internship\training\intern\Day8\NETStarter\Basics\obj\Debug\net8.0\Basics.AssemblyInfo.cs
+D:\Internship\training\intern\Day8\NETStarter\Basics\obj\Debug\net8.0\Basics.csproj.CoreCompileInputs.cache
+D:\Internship\training\intern\Day8\NETStarter\Basics\obj\Debug\net8.0\Basics.sourcelink.json
+D:\Internship\training\intern\Day8\NETStarter\Basics\obj\Debug\net8.0\Basics.dll
+D:\Internship\training\intern\Day8\NETStarter\Basics\obj\Debug\net8.0\refint\Basics.dll
+D:\Internship\training\intern\Day8\NETStarter\Basics\obj\Debug\net8.0\Basics.pdb
+D:\Internship\training\intern\Day8\NETStarter\Basics\obj\Debug\net8.0\Basics.genruntimeconfig.cache
+D:\Internship\training\intern\Day8\NETStarter\Basics\obj\Debug\net8.0\ref\Basics.dll
