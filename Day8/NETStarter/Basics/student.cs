@@ -23,6 +23,6 @@ class animal
 
   public void Details()
   {
-    Console.WriteLine($"{name} is a {type}. It lives in {habitat}. It is a {foodtype} animal and depend upon {food} for food." );
+    Console.WriteLine($"{name} is a {type}. {name} lives in {habitat}. It is a {foodtype} animal and depend upon {food} for food." );
   }
 }

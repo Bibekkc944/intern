@@ -27,7 +27,7 @@
 
     goat.name = "Goat";
     goat.type = "Domestic animal";
-    goat.habitat = "house";
+    goat.habitat = "Shelter";
     goat.foodtype = "Herbivorous";
     goat.food = "grass";
 
